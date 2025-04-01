@@ -16,7 +16,7 @@ char checkWinner();
 void printWinner(char winner);
 
 int main(){
-    srand(time(0));  // Seed random number generator once
+    srand(time(0));  // Seed random number generator 
     char winner = ' ';
     resetBoard();
 
