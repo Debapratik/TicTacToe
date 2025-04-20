@@ -1,1 +1,2 @@
-My first C project- a mini game of TicTacToe
+My C projects
+- a mini game of TicTacToe
